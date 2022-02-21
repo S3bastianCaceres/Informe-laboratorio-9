@@ -53,15 +53,13 @@ d) 45 ∠ -117.9° =
 
 **<H4>8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.</H4>**
 
-a) 10 + 3 j - ( 7 + 2 j )( 3 ∠-115°) 
-2 j
+<img src="https://latex.codecogs.com/svg.image?(a)\&space;\frac{10&plus;3j}{2j}-(7&plus;2j)(3\angle&space;-115^{\circ})" title="(a)\ \frac{10+3j}{2j}-(7+2j)(3\angle -115^{\circ})" />
 
 
-b) 6.8 ∠ 125.3° + 4.5 ∠-11.5° 
-7.6 – 1.2 j
+<img src="https://latex.codecogs.com/svg.image?(b)\&space;6.8\angle&space;125.3^{\circ}&plus;\frac{4.5\angle&space;-11.5^{\circ}}{7.6-j1.2}" title="(b)\ 6.8\angle 125.3^{\circ}+\frac{4.5\angle -11.5^{\circ}}{7.6-j1.2}" />
 
 
-c) 34 + 28.5 j –51.2 ∠-215° 
-4 ∠ -20.8° 
+<img src="https://latex.codecogs.com/svg.image?(c)\&space;\frac{34&plus;28.5&space;j}{4\angle&space;-20.8^{\circ}}-(51.2\angle&space;-215^{\circ})" title="(c)\ \frac{34+28.5 j}{4\angle -20.8^{\circ}}-(51.2\angle -215^{\circ})" />
+
 
 **<H4>8.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados</H4>**
