@@ -29,7 +29,7 @@ Cantidad Elemento
 
 8.5. PROCEDIMIENTO**
 
-**<H3>8.5.1. Transforme a su forma polar:</H3>**
+**<H4>8.5.1. Transforme a su forma polar:</H4>**
 
 a) 2 + 3 j = 
 
