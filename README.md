@@ -2,24 +2,24 @@
  
 PRÁCTICA No. 9 FASORES.
 
-8.1. OBJETIVO DE LA PRÁCTICA
+8.1. OBJETIVO DE LA PRÁCTICA**
 
 Realizar operaciones aritméticas con números complejos, tanto en su forma polar 
 como rectangular.
 
-8.2. REQUISITOS PREVIOS
+8.2. REQUISITOS PREVIOS**
 
 Investigue: el concepto de fasor en su forma rectangular y polar. Así mismo su 
 representación gráfica.
 
-8.3. INFORMACIÓN GENERAL
+8.3. INFORMACIÓN GENERAL**
 
 Los números complejos permiten realizar operaciones matemáticas con 
 cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de 
 los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen 
 tanto magnitud como ángulo.
 
-8.4. MATERIAL Y EQUIPO REQUERIDO
+8.4. MATERIAL Y EQUIPO REQUERIDO**
 
 
 Cantidad Elemento
@@ -27,8 +27,9 @@ Cantidad Elemento
 
 
 
-8.5. PROCEDIMIENTO
-8.5.1. Transforme a su forma polar:
+8.5. PROCEDIMIENTO**
+
+**<H3>8.5.1. Transforme a su forma polar:</H3>**
 
 a) 2 + 3 j = 
 
@@ -39,7 +40,7 @@ c) 4.3 – 2.8 j =
 d) -6 – 3.2 j =
 
 
-8.5.2 Transforme a su forma rectangular:
+**8.5.2 Transforme a su forma rectangular:**
 a) 36 ∠ -10° = 
 
 b) 28.7 ∠ 135° = 
