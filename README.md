@@ -9,7 +9,7 @@ como rectangular.
 
 **<H3>Marco teórico</H3>**
 
-
+![Image text](https://github.com/S3bastianCaceres/Informe-laboratorio-9/blob/main/FASO%209999.png)
 
 **<H3>9.3. INFORMACIÓN GENERAL</H3>**
 
