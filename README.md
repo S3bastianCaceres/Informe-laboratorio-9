@@ -152,6 +152,8 @@ tanto magnitud como ángulo.
 
 **<H3>5. VIDEO</H3>**
 
+https://www.youtube.com/watch?v=_CBg12uj9xw
+
 **<H3>6. CONCLUSIONES</H3>**
 
 **<H3>7. BIBLIOGRAFÍA</H3>**
