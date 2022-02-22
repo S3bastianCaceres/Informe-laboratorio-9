@@ -30,6 +30,12 @@ Cantidad Elemento
 
 **<H4>9.5.1. Transforme a su forma polar:</H4>**
 
+**FORMULAS A USAR**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=C%3D%20%5Csqrt%7B%20A%5E%7B2%7D%20%2B%20B%5E%7B2%7D%20%7D%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20%5Cfrac%7B%20%5Cpm%20B%7D%7BA%7D%20%5Cbig)%20">
+
+
+
 a) 2 + 3 j = 
 
 b) -8 + 6.2 j = 
