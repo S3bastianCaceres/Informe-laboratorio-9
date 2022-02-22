@@ -35,38 +35,30 @@ Cantidad Elemento
 <img src="https://chart.apis.google.com/chart?cht=tx&chl=C%3D%20%5Csqrt%7B%20A%5E%7B2%7D%20%2B%20B%5E%7B2%7D%20%7D%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20%5Cfrac%7B%20%5Cpm%20B%7D%7BA%7D%20%5Cbig)%20">
 
 
-
-a) 2 + 3 j = 
+**a) 2 + 3 j =**
 
 <img src="https://chart.apis.google.com/chart?cht=tx&chl=%20%5Cbullet%20Magnitud%5C%5C%0AC%3D%20%5Csqrt%7B%202%5E%7B2%7D%20%2B%203%5E%7B2%7D%20%7D%20%3D%20%5Csqrt%7B13%7D%20%5C%5C%0A%20%5Cbullet%20Angulo%20%5C%20de%20%5C%20fase%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20%5Cfrac%7B3%7D%7B2%7D%20%5Cbig))%3D%2056.31%5E%7B%20%5Ccirc%20%7D%20%20">
 
-b) -8 + 6.2 j = 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%20%5Csqrt%7B13%7D%20%5C%20%20%5Cangle%20%2056.31%5E%7B%20%5Ccirc%20%7D%0A">
 
-**Magnitud**
+**b) -8 + 6.2 j =**
 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%20%5Cbullet%20Magnitud%5C%5C%0AC%3D%20%5Csqrt%7B%20(-8)%5E%7B2%7D%20%2B%20(6.2)%5E%7B2%7D%20%7D%20%3D%2010.12%20%5C%5C%0A%20%5Cbullet%20Angulo%20%5C%20de%20%5C%20fase%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20-%5Cfrac%7B6.2%7D%7B8%7D%20%5Cbig)%3D%20-37.77%5E%7B%20%5Ccirc%20%7D%20%20%5C%5C%0A">
 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%2010.12%20%5C%20%20%5Cangle%20%20-37.77%5E%7B%20%5Ccirc%20%7D%0A">
 
-**Ángulo de fase**
+**c) 4.3 – 2.8 j =** 
 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%20%5Cbullet%20Magnitud%5C%5C%0AC%3D%20%5Csqrt%7B%20(4.3)%5E%7B2%7D%20%2B%20(-2.8)%5E%7B2%7D%20%7D%20%3D%205.13%20%5C%5C%0A%20%5Cbullet%20Angulo%20%5C%20de%20%5C%20fase%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20-%5Cfrac%7B2.8%7D%7B4.3%7D%20%5Cbig)%3D%20-33.07%5E%7B%20%5Ccirc%20%7D%20%20%5C%5C%0A">
 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%205.13%20%5C%20%20%5Cangle%20%20-33.07%5E%7B%20%5Ccirc%20%7D%0A">
 
+**d) -6 – 3.2 j =**
 
-c) 4.3 – 2.8 j = 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%20%5Cbullet%20Magnitud%5C%5C%0AC%3D%20%5Csqrt%7B%20(-6)%5E%7B2%7D%20%2B%20(-3.2)%5E%7B2%7D%20%7D%20%3D%206.8%20%5C%5C%0A%20%5Cbullet%20Angulo%20%5C%20de%20%5C%20fase%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20%5Cfrac%7B3.2%7D%7B6%7D%20%5Cbig)%3D%2028.07%5E%7B%20%5Ccirc%20%7D%20%20%5C%5C%0A">
 
-**Magnitud**
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%206.8%20%5C%20%20%5Cangle%20%2028.07%5E%7B%20%5Ccirc%20%7D%0A">
 
-
-
-**Ángulo de fase**
-
-
-d) -6 – 3.2 j =
-
-**Magnitud**
-
-
-
-**Ángulo de fase**
 
 
 
