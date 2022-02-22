@@ -156,4 +156,10 @@ https://www.youtube.com/watch?v=_CBg12uj9xw
 
 **<H3>6. CONCLUSIONES</H3>**
 
+-Al realizar las trasformaciones desde sus formas rectangular y polar se puede concluir que son formas de números complejos que se utilizan para representar cantidades fasoriales, una cantidad fasorial contiene tanto magnitud como posición angular.
+
+-En el caso de transformación polar se aplicaron la fórmula del teorema de Pitágoras y para el ángulo la tangente inversa además se tomó en cuenta la teoría de cuadrantes en el caso de ser necesario se sumó o resto 180 grados.
+
+-Al comparar los resultados obtenidos por la calculadora concluimos que su resultado es verdadero.
+
 **<H3>7. BIBLIOGRAFÍA</H3>**
