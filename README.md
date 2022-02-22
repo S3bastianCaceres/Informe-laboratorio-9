@@ -108,3 +108,8 @@ Cantidad Elemento
 
 
 **<H4>9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados</H4>**
+
+
+**Ejercicios anteriores - transformar de polar a rectangular**
+
+[![01.png](https://i.postimg.cc/rmdKzBrm/01.png)](https://postimg.cc/Kk2ZHsQS)
