@@ -45,7 +45,7 @@ Cantidad Elemento
 
 <img src="https://chart.apis.google.com/chart?cht=tx&chl=%20%5Cbullet%20Magnitud%5C%5C%0AC%3D%20%5Csqrt%7B%20(-8)%5E%7B2%7D%20%2B%20(6.2)%5E%7B2%7D%20%7D%20%3D%2010.12%20%5C%5C%0A%20%5Cbullet%20Angulo%20%5C%20de%20%5C%20fase%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20-%5Cfrac%7B6.2%7D%7B8%7D%20%5Cbig)%3D%20-37.77%5E%7B%20%5Ccirc%20%7D%20%20%5C%5C%0A">
 
-<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%2010.12%20%5C%20%20%5Cangle%20%20-37.77%5E%7B%20%5Ccirc%20%7D%0A">
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%2010.12%20%5C%20%5Cangle%20-37.77-180%5E%7B%20%5Ccirc%20%7D%5C%5C%0A10.12%20%5C%20%5Cangle%20142.23%5E%7B%20%5Ccirc%20%7D">
 
 **c) 4.3 – 2.8 j =** 
 
@@ -57,7 +57,7 @@ Cantidad Elemento
 
 <img src="https://chart.apis.google.com/chart?cht=tx&chl=%20%5Cbullet%20Magnitud%5C%5C%0AC%3D%20%5Csqrt%7B%20(-6)%5E%7B2%7D%20%2B%20(-3.2)%5E%7B2%7D%20%7D%20%3D%206.8%20%5C%5C%0A%20%5Cbullet%20Angulo%20%5C%20de%20%5C%20fase%20%5C%5C%0A%20%5Ctheta%20%3Dtan%5E%7B-1%7D%20%20%5Cbig(%20%5Cfrac%7B3.2%7D%7B6%7D%20%5Cbig)%3D%2028.07%5E%7B%20%5Ccirc%20%7D%20%20%5C%5C%0A">
 
-<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%206.8%20%5C%20%20%5Cangle%20%2028.07%5E%7B%20%5Ccirc%20%7D%0A">
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%5C%5C%206.8%20%5C%20%5Cangle%2028.07-180%5E%7B%20%5Ccirc%20%7D%5C%5C%0A6.8%20%5C%20%5Cangle%20-151.93%5E%7B%20%5Ccirc%20%7D">
 
 
 
