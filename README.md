@@ -135,7 +135,19 @@ tanto magnitud como ángulo.
 
 [![01.png](https://i.postimg.cc/rmdKzBrm/01.png)](https://postimg.cc/Kk2ZHsQS)
 
+**Ejercicios anteriores - expresar en polar y rectangular**
+
+<img src="https://latex.codecogs.com/svg.image?\mathbf{(a)\&space;\frac{10&plus;3j}{2j}-(7&plus;2j)(3\angle&space;-115^{\circ})" title="(a)\ \frac{10+3j}{2j}-(7+2j)(3\angle -115^{\circ})}" />
+
 ![image](https://user-images.githubusercontent.com/93739242/155146553-15a22b38-a13e-4f7b-a76b-c81a15c7a1e2.png)
+
+<img src="https://latex.codecogs.com/svg.image?\mathbf{(b)\&space;6.8\angle&space;125.3^{\circ}&plus;\frac{4.5\angle&space;-11.5^{\circ}}{7.6-j1.2}" title="(b)\ 6.8\angle 125.3^{\circ}+\frac{4.5\angle -11.5^{\circ}}{7.6-j1.2}}" />
+
+![image](https://user-images.githubusercontent.com/93739242/155146896-d97fa3db-d76c-47e7-88a1-a6bea5deaba9.png)
+
+<img src="https://latex.codecogs.com/svg.image?\mathbf{(c)\&space;\frac{34&plus;28.5&space;j}{4\angle&space;-20.8^{\circ}}-(51.2\angle&space;-215^{\circ})" title="(c)\ \frac{34+28.5 j}{4\angle -20.8^{\circ}}-(51.2\angle -215^{\circ})}" />
+
+![image](https://user-images.githubusercontent.com/93739242/155147035-8e56b1a3-ad47-4f30-909e-73c38834ea11.png)
 
 
 **<H3>5. VIDEO</H3>**
