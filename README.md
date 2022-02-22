@@ -38,11 +38,29 @@ Cantidad Elemento
 
 a) 2 + 3 j = 
 
+**Magnitud**
+
+**Ángulo de fase**
+
 b) -8 + 6.2 j = 
+
+**Magnitud**
+
+**Ángulo de fase**
+
 
 c) 4.3 – 2.8 j = 
 
+**Magnitud**
+
+**Ángulo de fase**
+
+
 d) -6 – 3.2 j =
+
+**Magnitud**
+
+**Ángulo de fase**
 
 
 **<H4>9.5.2 Transforme a su forma rectangular:</H4>**
