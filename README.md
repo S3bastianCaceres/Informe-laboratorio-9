@@ -63,13 +63,34 @@ Cantidad Elemento
 
 
 **<H4>9.5.2 Transforme a su forma rectangular:</H4>**
-a) 36 ∠ -10° = 
 
-b) 28.7 ∠ 135° = 
+**FORMULAS A USAR**
 
-c) 11.2 ∠ 28° = 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=A%3DCcos(%20%5Ctheta%20)%5C%5C%0AB%3DCsin(%20%5Ctheta%20)%0A">
 
-d) 45 ∠ -117.9° = 
+**a) 36 ∠ -10° =** 
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Parte%20%5C%20real%20%5C%5C%0AA%3D36cos(-10)%3D35.45%5C%5C%0A%5Cbullet%20Parte%20%5C%20imaginaria%5C%5C%0AB%3D36sin(-10)%3D-6.25%5C%5C">
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%20%5C%5C%0A%0A35.45-6.25j">
+
+**b) 28.7 ∠ 135° =** 
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Parte%20%5C%20real%20%5C%5C%0AA%3D28.7cos(135)%3D-20.29%5C%5C%0A%5Cbullet%20Parte%20%5C%20imaginaria%5C%5C%0AB%3D28.7sin(135)%3D20.29%5C%5C">
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%20%5C%5C%0A%0A-20.29%2B20.29j">
+
+**c) 11.2 ∠ 28° =** 
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Parte%20%5C%20real%20%5C%5C%0AA%3D11.2cos(28)%3D9.88%5C%5C%0A%5Cbullet%20Parte%20%5C%20imaginaria%5C%5C%0AB%3D11.3sin(28)%3D5.30%5C%5C">
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%20%5C%5C%0A%0A9.88%2B5.30j">
+
+**d) 45 ∠ -117.9° =** 
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Parte%20%5C%20real%20%5C%5C%0AA%3D45cos(-117.9)%3D-21.05%5C%5C%0A%5Cbullet%20Parte%20%5C%20imaginaria%5C%5C%0AB%3D45sin(-117.9)%3D-39.76%5C%5C">
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Cbullet%20Resultado%20%5C%5C%0A%0A-21.05-39.76j">
  
 
 
