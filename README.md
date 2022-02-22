@@ -2,14 +2,28 @@
  
 **<H2>PRÁCTICA No. 9 FASORES.</H2>**
 
-**<H3>9.1. OBJETIVO DE LA PRÁCTICA</H3>**
+**<H3>9.1. OBJETIVOS</H3>**
+
+**Objetivo General**
 
 Realizar operaciones aritméticas con números complejos, tanto en su forma polar 
-como rectangular.
+como rectangular para asi analizar el concepto de fasor y entender cómo realizar transformación con números complejos de forma teórica, usando una calculadora cientifica con cantidades fasoriales para el analisis de circuitos ca.
 
-**<H3>Marco teórico</H3>**
+**Objetivos Específicos**
+
+- Explicar como realizar es la conversion de numeros complejos desde su forma rectangular a polar y viceversa.
+
+- Utilizar los procesos de transformación para resolver ejercicios que trabajen con las dos formas (polar y rectangular) en simultaneo.
+
+- Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el desarrollo de las conversiones.
+
+- Comprobar los resultados obtenidos en los cálculos con los que resultan en la calculadora, verificar si son iguales.
+
+**<H3>2. MARCO TEÓRICO</H3>**
 
 ![Image text](https://github.com/S3bastianCaceres/Informe-laboratorio-9/blob/main/FASO%209999.png)
+
+**<H3>3. EXPLICACIÓN DEL PROCEDIMIENTO</H3>**
 
 **<H3>9.3. INFORMACIÓN GENERAL</H3>**
 
@@ -21,7 +35,6 @@ tanto magnitud como ángulo.
 **<H3>9.4. MATERIAL Y EQUIPO REQUERIDO</H3>**
 
 
-Cantidad Elemento
 1 Calculadora Científica
 
 
@@ -118,3 +131,12 @@ Cantidad Elemento
 **Ejercicios anteriores - transformar de polar a rectangular**
 
 [![01.png](https://i.postimg.cc/rmdKzBrm/01.png)](https://postimg.cc/Kk2ZHsQS)
+
+**<H3>4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR</H3>**
+
+
+**<H3>5. VIDEO</H3>**
+
+**<H3>6. CONCLUSIONES</H3>**
+
+**<H3>7. BIBLIOGRAFÍA</H3>**
